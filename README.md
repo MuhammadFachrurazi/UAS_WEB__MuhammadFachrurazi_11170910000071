@@ -1,3 +1,2 @@
-# e-sekolah
-Contoh script sederhana dengan PHP dan MySQL untuk input nilai Mata Pelajaran oleh guru pengampu. 
-Login dengan multiuser dengan hak akses sesuai level
+# UAS_WEB_MuhammadFachrurazi_11170910000071
+Muhammad_Fachrurazi_11170910000071
